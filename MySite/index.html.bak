@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Sudeepa Saranga</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+	  
+	  
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html"><i class="fa-brands fa-sellcast"></i> Saranga</a>
+	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav nav ml-auto">
+	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+			  <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
+	          <li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
+	          <li class="nav-item"><a href="#hobby-section" class="nav-link"><span>Hobbies and Interest<span></a></li>
+			  <li class="nav-item"><a href="#Activity-section" class="nav-link"><span>Activities<span></a></li>
+	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+	  <section id="home-section" class="hero">
+		  <div class="home-slider  owl-carousel">
+	      <div class="slider-item ">
+	      	<div class="overlay"></div>
+	        <div class="container">
+	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/bg_1.png);">
+	          		<div class="overlay"></div>
+	          	</div>
+		          <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+		          	<div class="text">
+		          		<span class="subheading">Hello!</span>
+			            <h1 class="mb-4 mt-3">I'm <span>Sudeepa Saranga</span></h1>
+			            <h2 class="mb-4">Undergraduate at Sri Lanka Institute of Information Technology.</h2>
+
+						              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+										<li class="ftco-animate"><a href="https://twitter.com/Sudeepa_Saranga"><span class="icon-twitter"></span></a></li>
+										<li class="ftco-animate"><a href="https://www.linkedin.com/in/sudeepasaranga/"><span class="icon-linkedin"></span></a></li>
+										<li class="ftco-animate"><a href="https://github.com/sudeepasaranga"><span class="icon-github"></span></a></li>
+										<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+									  </ul>
+		            </div>
+		          </div>
+	        	</div>
+	        </div>
+	      </div>
+
+	      <div class="slider-item">
+	      	<div class="overlay"></div>
+	        <div class="container">
+	          <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
+	          	<div class="one-third js-fullheight order-md-last img" style="background-image:url(images/bg_2.png);">
+	          		<div class="overlay"></div>
+	          	</div>
+		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+		          	<div class="text">
+		          		
+			            <h1 class="mb-4 mt-3"> I’m currently <span>following </span></h1>
+			            <h2 class="mb-4"> BSc(Hons) in Information Technology Specializing in Information Technology.</h2>
+								      <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+										<li class="ftco-animate"><a href="https://twitter.com/Sudeepa_Saranga"><span class="icon-twitter"></span></a></li>
+										<li class="ftco-animate"><a href="https://www.linkedin.com/in/sudeepasaranga/"><span class="icon-linkedin"></span></a></li>
+										<li class="ftco-animate"><a href="https://github.com/sudeepasaranga"><span class="icon-github"></span></a></li>
+										<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+									  </ul>
+		            </div>
+		          </div>
+	        	</div>
+	        </div>
+	      </div>
+	    </div>
+    </section>
+
+    <section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
+    	<div class="container">
+    		<div class="row d-flex">
+    			<div class="col-md-6 col-lg-5 d-flex">
+    				<div class="img-about img d-flex align-items-stretch">
+    					<div class="overlay"></div>
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/104080.jpg);">
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-6 col-lg-7 pl-lg-5 pb-5">
+    				<div class="row justify-content-start pb-3">
+		          <div class="col-md-12 heading-section ftco-animate">
+		          	<h1 class="big">About</h1>
+		            <h2 class="mb-4">About Me</h2>
+		            <p>I am an undergraduate at SLIIT willing to innovate new ideas through technical skills, practical knowledge and creativity. I consider myself as an adaptable, responsible and organized person capable of leading and working with a team under pressure and achieve targets through fast learning ability and problem-solving skills.</p>
+		            <ul class="about-info mt-4 px-md-0 px-2">
+		            	<li class="d-flex"><span>Name:</span> <span>Sudeepa Saranga L.G.</span></li>
+		            	<li class="d-flex"><span>Date of birth:</span> <span>January 19, 2000</span></li>
+		            	<li class="d-flex"><span>City:</span> <span>Matara</span></li>
+		            	<li class="d-flex"><span>Age:</span><span>22</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>sarangasadeepa@gmail.com</span></li>
+		            	<li class="d-flex"><span>Phone: </span> <span>071 1655948</span></li>
+						<li class="d-flex"><span>Study at: </span> <span>Sri Lanka Institute of Information Technology.</span></li>
+						<li class="d-flex"><span>School: </span> <span>St.Servatius College Matara.</span></li>
+						
+		            </ul>
+		          </div>
+		        </div>
+	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
+              <div class="text">
+              	<p class="mb-4">
+	                <span class="number" data-number="6">0</span>
+	                <span>Project Completed in University</span>
+                </p>
+				 <div id="resume-section">
+                <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+              </div>
+	          </div>
+	        </div>
+        </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-no-pb" id="projects-section">
+    	<div class="container">
+    		<div class="row justify-content-center pb-5">
+          <div class="col-md-10 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Projects</h1>
+            <h2 class="mb-4">Projects Experiences</h2>
+            <p> These are project experiences that I have encountered during my undergraduate life</p>
+          </div>
+        </div>
+    		<div class="row">
+    			<div class="col-md-6">
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">06/2020 – 10/2020</span>
+    					<h2>Online Shopping Mall Web Site</h2>
+    					<span class="position">Web Project || Year 01 Semester 02</span>
+    					<p class="mt-4">This is my first project in my university and this is a group project under the IWT module Year 01 Semester 02 in SLIIT. This is a Shopping mall website. We used only HTML, CSS and JavaScript to develop this web site.</p>
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">06/2021 – 10/2021</span>
+    					<h2>Online Food Delivery System - Mobile Application</h2>
+    					<span class="position">Mobile Application || Year 02 Semester 02</span>
+    					<p class="mt-4">This is a group project which is conducted as an assignment of the module Mobile Application Development Year 02 Semester 02 in SLIIT. This is a mobile application suits for a food delivery.This is a mobile application suitable for a food ordering, where customers can order online to deliver their favorite meals.
+                                         We used Android Studio, Java and SQLite to develop this application.</p>
+										 
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">03/2022 - 5/2022</span>
+    					<h2>Online Power Grid Maintain (Electro-grid) System</h2>
+    					<span class="position">Web Project || Year 03 Semester 01</span>
+    					<p class="mt-4">This is a project done for the Programming Appilication Frameworks module Year 03 Semester 01 in SLIIT. This is a Group Project and we used Java Rest API(JAX-RS), MYSQL and Apache Tomcat Server to develop this application.</p>
+    				</div>
+    			</div>
+
+    			<div class="col-md-6">
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">02/2021 – 06/2021</span>
+    					<h2> Online Property Management System</h2>
+    					<span class="position">Web Project || Year 02 Semester 01</span>
+    					<p class="mt-4">This is a project done for the Object Oriented Programming module Year 02 Semester 01 in SLIIT. This is a Group Project and we used to develop this application, Java, Java Servlet, HTML, CSS and Boostrap. </p>
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">06/2021 – 11/2021</span>
+    					<h2>Hospital Management System</h2>
+    					<span class="position">Web Project || Year 02 Semester 02</span>
+    					<p class="mt-4">This is a group project done for the Information Technology Project module Year 02 Semester 02 in SLIIT. We have implemented a web application for Hospitaltal Management System. It is a platform for patients to chanel the doctors and also Administrators can manage their hospital using this application. 
+						                 We used to MERN Stack Technology to develop our application.</p>
+    				</div>
+    				<div class="resume-wrap ftco-animate">
+    					<span class="date">03/2022 - Present</span>
+    					<h2>Online Clothing Store (Ongoing)</h2>
+    					<span class="position">Web Project || Year 03 Semester 01</span>
+    					<p class="mt-4"> This is a group project done for the Information Technology Project Management module Year 03 Semester 01 in SLIIT . We have implemented Customer side and Admin side Separately for our application. It is a platform for Customers to buy the cloths and also Administrators can manage their system using this application. 
+						                 We used to MERN Stack Technology to develop our application.</p>
+    				</div>
+    			</div>
+    		</div>
+    		<div class="row justify-content-center mt-5">
+    			<div class="col-md-6 text-center ftco-animate">
+    				<p><a href="#" class="btn btn-primary py-4 px-5">Download CV</a></p>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section" id="skills-section">
+    	<div class="container">
+    		<div class="row justify-content-center py-5 mt-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Skills</h1>
+            <h2 class="mb-4">Skills</h2>
+            <p>Some Technical Skills, Tools & Technologies and some Interpersonal Skills</p>
+          </div>
+        </div>
+    		<div class="row">
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="flaticon-web-design"></i>
+							</span>
+							<div>
+								<h1 class="mb-5">Programming Skills</h1>
+								<h3>JavaScript</h3>
+								<h3>C/C++</h3>
+								<h3>Java</h3>
+								<h3>Phython</h3>
+								<h3>React JS</h3>
+								<h3>Node JS</h3>
+								<h3>PHP</h3>
+								<h3>HTML/CSS/MYSQL</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="flaticon-ux-design"></i>
+							</span>
+							<div>
+								<h1 class="mb-5">Tools & Technologies</h1>
+								<h3>Eclips / Intellij IDE</h3>
+								<h3>MongoDB</h3>
+								<h3>Boostrap</h3>
+								<h3>GitHub</h3>
+								<h3>OOP Concepts</h3>
+								<h3>Android Studio</h3>
+								<h3>Express JS</h3>
+								<h3>PHPMyAdmin</h3>
+								<h3>Visual Studio Code</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="flaticon-idea"></i>
+							</span>
+							<div>
+								<h1 class="mb-5">Interpersonal Skills</h1>
+								<h3>Problem Solving</h3>
+								<h3>Leadership Skills</h3>
+								<h3>Team Work</h3>
+								<h3>Team Motivation</h3>
+							</div>
+						</a>
+					</div>
+		
+				</div>
+    	</div>
+    </section>
+
+		
+		<section class="ftco-section" id="skills-section">
+			<div class="container">
+				<div class="row justify-content-center pb-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Skills</h1>
+            <h2 class="mb-4">Some Technical skills with level of experties</h2>
+            <p>These are some of the Technical skills with level of experties</p>
+          </div>
+        </div>
+				<div class="row">
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>JavaScript</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="60"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
+							    
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Java</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="50"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
+							    
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>HTML / CSS</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="90"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+							    
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>Phython</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="50"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
+							    
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>React Js</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="50"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
+							   
+							  	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="progress-wrap ftco-animate">
+							<h3>PHP</h3>
+							<div class="progress">
+							 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="20"
+							  	aria-valuemin="0" aria-valuemax="100" style="width:20%">
+							    
+							  	</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+ 
+      <section class="ftco-section" id="hobby-section">
+    	<div class="container">
+    		<div class="row justify-content-center py-5 mt-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Hobbies & Interest</h1>
+            <h2 class="mb-4">My Hobbies and Interested Fields</h2>
+            <p><b>My Hobbies</b></p>
+          </div>
+        </div>
+    		<div class="row">
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								
+								<i class="fa-solid fa-baseball"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Cricket</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+							<i class="fa-solid fa-person-walking-luggage"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Travelling</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="fa-solid fa-film"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Watching Movies</h3>
+							</div>
+						</a>
+					</div>
+				
+			</div>
+			 <p class="col-md-12 heading-section text-center ftco-animate"><b>Interest Fields</b></p>
+			    <div class="row">
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="fa-solid fa-computer"></i>
+								
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Web Developmwnt</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="fa-solid fa-code"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Programming</h3>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1">
+							<span class="icon">
+								<i class="fa-solid fa-chart-line"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Management</h3>
+							</div>
+						</a>
+					</div>
+				
+			</div>
+    	</div>
+    </section>
+
+<!--********************************* Skills Starts Here **************************** -->
+     <section class="ftco-section" id="Activity-section">
+		<div id="extra" class="skills container-fluid">
+            <div class="container">
+				  <div class="col-md-12 heading-section text-center ftco-animate">
+					<h1 class="big big-2">Extra Curricular</h1>
+					<h2 class="mb-4">Extra Curricular Activities</h2>
+				  </div>
+                <div class="row" style="height:570px;width:1200px;overflow:auto;">
+                    <div class="col-md-6 skii-div tech-skill">
+                        <div class="text">
+                            <h2 class="mb-4 mt-3">School Activities</h2>
+                        </div>
+						<br>
+                        <ul>
+								<li>	Member of Science Society - Servatius College</li>
+								<li>	Member of Servatius College Chess Club </li>
+								<li>	Member of the College Drama Group (2011 - 2013) </li>
+								<li>	Player in Under 17 Rugby Team - (2013-2015).</li>
+								<li>	Member of Nature Team - Servatius College. </li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-md-6 skii-div pro-skill">
+                        <div class="text">
+                            <h2 class="mb-4 mt-3">University Activities</h2>
+                        </div>
+						<br>
+                        <ul>
+                            <li>Member of LEO Club of SLIIT.</li>
+                            <li>Member of Carrier Guidance Unit of SLIIT</li>
+                            <li>Member of Mozilla Club of SLIIT</li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </section>
+
+	
+	    <section class="ftco-section ftco-hireme img margin-top" style="background-image: url(images/bg_1.jpg)">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-7 ftco-animate text-center">
+						<h2>Currently I’m seeking for a <span> internship </span>related to Software Engineering.</h2>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+  
+    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+      <div class="container">
+      	<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2">Contact</h1>
+            <h2 class="mb-4">Contact Me</h2>
+          </div>
+        </div>
+    <div class="container">
+        <div class="row d-flex contact-info mb-5">
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box p-4 text-center">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-map-signs"></span>
+          		</div>
+          		<h3 class="mb-4">Address</h3>
+	            <p>Kottagoda, Matara, Sri Lanka.</p>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box p-4 text-center">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-phone2"></span>
+          		</div>
+          		<h3 class="mb-4">Contact Number</h3>
+	            <p><a href="tel://1234567920">+94 711 655 948</a></p>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box p-4 text-center">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-paper-plane"></span>
+          		</div>
+          		<h3 class="mb-4">Email Address</h3>
+	            <p><a href="">sarangasadeepa@gmail.com</a></p>
+	          </div>
+			  
+          </div>
+
+        </div>
+    </div>
+        <div class="row no-gutters block-9">
+          <div class="col-md-6 order-md-last d-flex">
+            <form action="sarangasadeepa@gmail" class="bg-light p-4 p-md-5 contact-form">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
+          
+          </div>
+
+          <div class="col-md-6 d-flex">
+          	<div class="img" style="background-image: url(images/104080.jpg);"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+		
+		
+
+
+    <footer class="ftco-footer ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">About</h2>
+              <p>My Name is Saranga and this is my portfolio site.I hope you will be able to understand me. Thank you! </p>
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+                <li class="ftco-animate"><a href="https://twitter.com/Sudeepa_Saranga"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.linkedin.com/in/sudeepasaranga/"><span class="icon-linkedin"></span></a></li>
+                <li class="ftco-animate"><a href="https://github.com/sudeepasaranga"><span class="icon-github"></span></a></li>
+				<li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#home-section"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                <li><a href="#about-section"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                <li><a href="#resume-section"><span class="icon-long-arrow-right mr-2"></span>Resume</a></li>
+                <li><a href="#projects-section"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
+
+              </ul>
+            </div>
+          </div>
+		  
+		  <div class="col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#skills-section"><span class="icon-long-arrow-right mr-2"></span>Skills</a></li>
+                <li><a href="#hobby-section"><span class="icon-long-arrow-right mr-2"></span>Hobbies and Interest</a></li>
+                <li><a href="#Activity-section"><span class="icon-long-arrow-right mr-2"></span>Activities</a></li>
+                <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Contact Me</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Kottagoda, Matara, Sri Lanka.</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+94 711 655 948</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">sarangasadeepa@gmail</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+         
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa-brands fa-sellcast"></i>  Sudeepa Saranga </a>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
