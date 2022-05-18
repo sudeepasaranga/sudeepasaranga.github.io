@@ -131,11 +131,12 @@
 		        </div>
 	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
               <div class="text">
-              	<p class="mb-4">
+
+			  <div id="resume-section">
+				<p class="mb-4">
 	                <span class="number" data-number="6">0</span>
 	                <span>Project Completed in University</span>
                 </p>
-				 <div id="resume-section">
                 <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
               </div>
 	          </div>
@@ -532,7 +533,7 @@
     </div>
         <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="sarangasadeepa@gmail" class="bg-light p-4 p-md-5 contact-form">
+            <form action="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name">
               </div>
