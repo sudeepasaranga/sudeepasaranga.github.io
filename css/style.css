@@ -8479,7 +8479,7 @@ h1, h2, h3, h4, h5,
               .owl-carousel.home-slider .slider-item .slider-text .one-third:after {
                 opacity: 0; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-forth {
-          width: 50%;
+          width: 60%;
           position: relative; }
           @media (min-width: 768px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
